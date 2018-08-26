@@ -5,12 +5,7 @@ package model
 
 import (
 	"database/sql"
-	"database/sql/driver"
-	"encoding/csv"
 	"errors"
-	"fmt"
-	"regexp"
-	"strings"
 	"time"
 )
 
